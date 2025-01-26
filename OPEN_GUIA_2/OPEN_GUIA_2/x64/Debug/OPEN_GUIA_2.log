@@ -1,0 +1,5 @@
+﻿  OPEN_GUIA_2.cpp
+C:\Users\Santi\OneDrive\Desktop\proyectosOMP\OPEN_GUIA_2\OPEN_GUIA_2\OPEN_GUIA_2.cpp(31,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Santi\OneDrive\Desktop\proyectosOMP\OPEN_GUIA_2\OPEN_GUIA_2\OPEN_GUIA_2.cpp(32,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Santi\OneDrive\Desktop\proyectosOMP\OPEN_GUIA_2\OPEN_GUIA_2\OPEN_GUIA_2.cpp(27,9): warning C4101: 'i': unreferenced local variable
+  OPEN_GUIA_2.vcxproj -> C:\Users\Santi\OneDrive\Desktop\proyectosOMP\OPEN_GUIA_2\x64\Debug\OPEN_GUIA_2.exe
